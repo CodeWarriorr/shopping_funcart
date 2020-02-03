@@ -6,7 +6,9 @@ Simple Shopping Cart for demonstration purpose
 2. ```npm run start```
 
 # Assumptions
-1. Original product prices are in EUR
-2. Products have quantity limits
-3. Checkout views summary of products in cart
-4. Checkout does not clear cart and decrease product quantities
+1. App stores one cart in memory
+2. Creating new cart resets cart memory state
+3. Available product prices are in EUR
+4. Products have quantity limits
+5. Checkout views summary of products in cart
+6. Checkout does not clear cart and decrease product quantities
