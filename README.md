@@ -2,8 +2,8 @@
 Simple Shopping Cart for demonstration purpose
 
 # Start the project
-```npm install```
-```npm run start```
+1. ```npm install```
+2. ```npm run start```
 
 # Assumptions
 1. Original product prices are in EUR
