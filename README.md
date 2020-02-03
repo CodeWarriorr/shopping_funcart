@@ -4,6 +4,8 @@ Simple Shopping Cart for demonstration purpose
 # Start the project
 1. ```npm install```
 2. ```npm run start```
+3. default config ```http://localhost:8981```
+
 
 # Assumptions
 1. App stores one cart in memory
