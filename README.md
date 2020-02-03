@@ -2,6 +2,7 @@
 Simple Shopping Cart for demonstration purpose
 
 # Start the project
+```npm install```
 ```npm run start```
 
 # Assumptions
